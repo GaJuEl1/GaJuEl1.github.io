@@ -1,1 +1,2 @@
-# GaJuEl1.github.io
+# gajuel
+my repo
